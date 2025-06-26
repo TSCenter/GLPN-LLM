@@ -1,6 +1,8 @@
 Dataset
 ---
-You can download the dataset from [here](https://drive.google.com/file/d/1gPX-tAC1Vo6C8j8PV9IbAk8hbDhd1XMG/view?usp=drive_link). Unzip the dataset and put it in the `dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
+You can download the dataset from [here](https://drive.google.com/file/d/1gPX-tAC1Vo6C8j8PV9IbAk8hbDhd1XMG/view?usp=drive_link).
+
+Unzip the dataset and put it in the `dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
 
 
 Cite
