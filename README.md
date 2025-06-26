@@ -12,6 +12,16 @@ dataset/
     pheme/
 ```
 
+
+Requirements
+---
+You can install the requirements by running the following command:
+```bash
+pip install -r requirements.txt
+```
+Note: It's recommended to install the CLIP package directly from the [official GitHub repository](https://github.com/openai/CLIP.git).
+
+
 Cite
 ---
 If you use GLPN-LLM in a scientific publication, we would appreciate citations to the following paper:
