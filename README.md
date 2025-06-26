@@ -27,13 +27,11 @@ Cite
 If you use GLPN-LLM in a scientific publication, we would appreciate citations to the following paper:
 
 ```
-@inproceedings{
-anonymous2025synergizing,
-title={Synergizing {LLM}s with Global Label Propagation for Multimodal Fake News Detection},
-author={Anonymous},
-booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
-year={2025},
-url={https://openreview.net/forum?id=bWJ661V74z}
+@article{hu2025synergizing,
+  title={Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection},
+  author={Hu, Shuguo and Hu, Jun and Zhang, Huaiwen},
+  journal={arXiv preprint arXiv:2506.00488},
+  year={2025}
 }
 ```
 
