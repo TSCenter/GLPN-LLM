@@ -4,6 +4,16 @@ You can download the dataset from [here](https://drive.google.com/file/d/1gPX-tA
 
 Unzip the dataset and put it in the `dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
 
+The file structure is as follows:
+```
+dataset/
+    weibo/
+        weibo.csv
+    twitter/
+        twitter.csv
+    pheme/
+        pheme.csv
+```
 
 Cite
 ---
