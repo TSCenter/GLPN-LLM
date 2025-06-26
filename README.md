@@ -8,11 +8,8 @@ The file structure is as follows:
 ```
 dataset/
     weibo/
-        weibo.csv
     twitter/
-        twitter.csv
     pheme/
-        pheme.csv
 ```
 
 Cite
