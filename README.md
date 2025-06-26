@@ -21,6 +21,13 @@ pip install -r requirements.txt
 ```
 Note: It's recommended to install the CLIP package directly from the [official GitHub repository](https://github.com/openai/CLIP.git).
 
+Graph Construction
+---
+You can run the graph construction by running the following command:
+```bash
+python graph_construction.py
+```
+It will generate the graph files in the `dataset` folder. 
 
 Cite
 ---
