@@ -2,11 +2,11 @@ Dataset
 ---
 You can download the dataset from [here](https://drive.google.com/file/d/1gPX-tAC1Vo6C8j8PV9IbAk8hbDhd1XMG/view?usp=drive_link).
 
-Unzip the dataset and put it in the `dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
+Unzip the dataset and put it in the `script/dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
 
 The file structure is as follows:
 ```
-dataset/
+script/dataset/
     weibo/
     twitter/
     pheme/
