@@ -4,7 +4,7 @@ Source code (PyTorch) and dataset of the paper "[Synergizing LLMs with Global La
 
 
 ## Dataset
-You can download the dataset from [here](https://drive.google.com/file/d/1gPX-tAC1Vo6C8j8PV9IbAk8hbDhd1XMG/view?usp=drive_link).
+You can download the dataset from [here](https://drive.google.com/file/d/1maf12DjW4ph-fDLR8KkjgyzTvfrQASfy/view?usp=sharing).
 
 Unzip the dataset and put it in the `script/dataset` folder. We have three datasets: weibo, twitter and pheme. The dataset is in the form of csv files. 
 
